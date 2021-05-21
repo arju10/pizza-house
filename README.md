@@ -2,6 +2,8 @@ Project Name : Pizza House
 
 Technology : React, styled-components , CSS3
 
-Live Link : 
+Live Link : https://wonderful-austin-39f0c6.netlify.app/
 
-Github Link : # pizza-house
+Github Link : https://github.com/arju10/pizza-house
+
+ # pizza-house
